@@ -1,6 +1,5 @@
 ## Description
-The project is a task manager that provides the functionality of maintaining users, tasks, task statuses and their labels. The demo project is available at the [link](https://task-manager-mhos.onrender.com).
-To access the resource, enter "hexlet@example.com" as username and "qwerty" as password.
+The project is a task manager that provides the functionality of maintaining users, tasks, task statuses and their labels. 
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/sergi-Jr/java-project-99/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/sergi-Jr/java-project-99/actions)
